@@ -1,4 +1,4 @@
-# Share photos - Flickr Clone
+#  Flight Company Website made in PHP - FMI Flights
 Beautiful project for photo sharing made in ASP.NET and C#.
 
 
@@ -7,52 +7,52 @@ Beautiful project for photo sharing made in ASP.NET and C#.
 
 - Home
 
-<img src="https://github.com/andreas95/Share-Photos-Flickr-Clone-ASP.NET/blob/master/Share-Photos-Flickr-Clone-ASP.NET/flickr/app_screenshots/home.PNG"/>
+<img src=""/>
 
-- Browse
+- Footer
 
-<img src="https://github.com/andreas95/Share-Photos-Flickr-Clone-ASP.NET/blob/master/Share-Photos-Flickr-Clone-ASP.NET/flickr/app_screenshots/browse.PNG"/>
+<img src=""/>
 
-- Photo view
+- Search
 
-<img src="https://github.com/andreas95/Share-Photos-Flickr-Clone-ASP.NET/blob/master/Share-Photos-Flickr-Clone-ASP.NET/flickr/app_screenshots/photoview.PNG"/>
+<img src="https://github.com/andreas95/FlightCompany/blob/master/Screen-Shots/search.png"/>
 
-- Photo comments
+- 
 
-<img src="https://github.com/andreas95/Share-Photos-Flickr-Clone-ASP.NET/blob/master/Share-Photos-Flickr-Clone-ASP.NET/flickr/app_screenshots/photocomments.PNG"/>
+<img src=""/>
 
-- Upload
+- 
 
-<img src="https://github.com/andreas95/Share-Photos-Flickr-Clone-ASP.NET/blob/master/Share-Photos-Flickr-Clone-ASP.NET/flickr/app_screenshots/upload.PNG"/>
+<img src=""/>
 
-- Contact
+- 
 
-<img src="https://github.com/andreas95/Share-Photos-Flickr-Clone-ASP.NET/blob/master/Share-Photos-Flickr-Clone-ASP.NET/flickr/app_screenshots/contact.PNG"/>
+<img src=""/>
 
 - Login
 
-<img src="https://github.com/andreas95/Share-Photos-Flickr-Clone-ASP.NET/blob/master/Share-Photos-Flickr-Clone-ASP.NET/flickr/app_screenshots/login.PNG"/>
+<img src=""/>
 
 - Recover
 
-<img src="https://github.com/andreas95/Share-Photos-Flickr-Clone-ASP.NET/blob/master/Share-Photos-Flickr-Clone-ASP.NET/flickr/app_screenshots/recover.PNG"/>
+<img src=""/>
 
 - Signup
 
-<img src="https://github.com/andreas95/Share-Photos-Flickr-Clone-ASP.NET/blob/master/Share-Photos-Flickr-Clone-ASP.NET/flickr/app_screenshots/register.PNG"/>
+<img src=""/>
 
-- New album
+- 
 
-<img src="https://github.com/andreas95/Share-Photos-Flickr-Clone-ASP.NET/blob/master/Share-Photos-Flickr-Clone-ASP.NET/flickr/app_screenshots/new_album.PNG"/>
+<img src=""/>
 
-- Admin menu
+- 
 
-<img src="https://github.com/andreas95/Share-Photos-Flickr-Clone-ASP.NET/blob/master/Share-Photos-Flickr-Clone-ASP.NET/flickr/app_screenshots/admin_menu.PNG"/>
+<img src=""/>
 
-- Add moderator
+- 
 
-<img src="https://github.com/andreas95/Share-Photos-Flickr-Clone-ASP.NET/blob/master/Share-Photos-Flickr-Clone-ASP.NET/flickr/app_screenshots/add_moderator.PNG"/>
+<img src=""/>
 
-- Change password
+- 
 
-<img src="https://github.com/andreas95/Share-Photos-Flickr-Clone-ASP.NET/blob/master/Share-Photos-Flickr-Clone-ASP.NET/flickr/app_screenshots/change_password.PNG"/>
+<img src=""/>
