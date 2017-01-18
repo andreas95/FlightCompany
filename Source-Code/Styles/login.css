@@ -1,0 +1,231 @@
+/* main body classes */
+
+body {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    min-width: 800px !important;
+}
+
+/* main body classes */
+body,font,p,pre,td,h1,h2,h3,div {
+    color:white;
+    font-size: 8pt;
+}
+
+body {
+    font-family:"tahoma", "arial", "helvetica", "sans-serif";
+    font-size:8pt;
+    background-image: url("../pic/background.jpg");
+    background-position: 50% 30%;
+    background-repeat:no-repeat;
+    background-color:black;
+    margin-top:0px;
+    margin-bottom:0px;
+    _height:100%;
+    min-height:100%;
+}
+table {border-collapse:collapse;
+    border:none;
+    padding:2px;
+}
+
+td.tboxhead{padding:0px;border:0px;width:400px;height:10px;background-image: url(../pic/tbox_header.png);background-repeat:no-repeat;background-position:left;}
+td.tboxmidd{padding:0px;border:0px;width:400px;height:30px;background-image: url(../pic/tbox_middle.png);background-repeat:repeat-y;background-position:left;}
+td.tboxfoot{padding:0px;border:0px;width:400px;height:10px;background-image: url(../pic/tbox_footer.png);background-repeat:no-repeat;background-position:left;}
+
+img.login{background-image:url(../pic/login.png);width:130px;height:60px;background-repeat:no-repeat;border:0;}
+img.recover{background-image:url(../pic/recover.png);width:130px;height:60px;background-repeat:no-repeat;border:0;}
+img.signup{background-image:url(../pic/signup.png);width:130px;height:60px;background-repeat:no-repeat;border:0;}
+
+/* buttons colors */
+a.button,button{background-color:#FFFFFF;border:1px solid #dedede;border-top:1px solid #eee;border-left:1px solid #eee;font-size:12px;text-decoration:none;font-weight:bold;color:#565656;cursor:pointer;}
+button{height:auto;overflow:visible;padding:4px 10px 3px 7px;}
+button[type]{padding-left:2px;padding-right:2px;padding-top:0px;padding-bottom:1px;}
+*:first-child+html button[type]{padding:4px 10px 3px 7px;}
+button img,a.button img{margin:0 3px -3px 0 !important;padding:0;border:none;width:16px;height:16px;float:none;}
+
+/* Standard */
+button:hover,a.button:hover{border:1px solid #235C96;color:#235C96;}
+a.button:active{border:1px solid #235C96;color:#fff;}
+
+/* Positive */
+body .positive{color:#black;}
+a.positive:hover,button.positive:hover{border:1px solid #C6D880;color:#529214;}
+a.positive:active{border:1px solid #529214;color:#fff;}
+
+/* Negative */
+body .negative{color:#d12f19;}
+a.negative:hover,button.negative:hover{border:1px solid #fbc2c4;color:#d12f19;}
+a.negative:active{border:1px solid #d12f19;color:#fff;}
+
+/* img classes for buttons */
+img.buttoncateg{background-image:url(../pic/categories.png);background-repeat:no-repeat;border:0;}
+img.buttonnext{background-image:url(../pic/next.png);background-repeat:no-repeat;border:0;}
+
+/* Nav bar */
+
+.nav-bar {
+    top:10px;
+    left:10px;
+    position:fixed;
+    display:block;
+    width:100px;
+    height:100px;
+    background-color:transparent;
+    border-radius:50%;
+    z-index:20;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+.nav-home {
+    width:60%;
+    height:60%;
+    background-color:dimGray;
+    border-radius:50%;
+    position:absolute;
+    color:white;
+    text-align:center;
+    line-height:70px;
+    top:25%;
+    left:25%;
+    z-index:19;
+    transition: all 500ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
+    cursor:pointer;
+    position:absolute;
+}
+.nav-booking {
+    width:60%;
+    height:60%;
+    background-color:dimGray;
+    border-radius:50%;
+    position:absolute;
+    color:white;
+    text-align:center;
+    line-height:70px;
+    top:25%;
+    left:25%;
+    z-index:19;
+    transition: all 500ms cubic-bezier(0.680, -0.550, 0.265, 1.550) .2s;
+    cursor:pointer;
+}
+.nav-account {
+    width:60%;
+    height:60%;
+    background-color:dimGray;
+    border-radius:50%;
+    position:absolute;
+    color:white;
+    text-align:center;
+    line-height:70px;
+    top:25%;
+    left:25%;
+    transition: all 500ms cubic-bezier(0.680, -0.550, 0.265, 1.550) .4s;
+    cursor:pointer;
+}
+.nav-contact {
+    width:60%;
+    height:60%;
+    background-color:dimGray;
+    border-radius:50%;
+    position:absolute;
+    color:white;
+    text-align:center;
+    line-height:70px;
+    top:25%;
+    left:25%;
+    transition: all 500ms cubic-bezier(0.680, -0.550, 0.265, 1.550) .6s;
+    cursor:pointer;
+}
+.nav-logo {
+    top:10px;
+    left:10px;
+    width:100px;
+    height:100px;
+    background: #073590;;
+    border-radius:50%;
+    position:absolute;
+    z-index:21;
+    color:white;
+    text-align:center;
+    line-height:130px;
+    cursor:pointer;
+    position:fixed;
+}
+
+i.fa {
+    padding-top: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+    font-weight: 700;
+    outline: 0;
+}
+
+a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    color: red;
+}
+
+div.pane-header {
+    padding:0px;
+    border:0px;
+    width:400px;
+    height:10px;
+    background-image: url(../pic/tbox_header.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    margin:0 auto;
+}
+
+div.pane-middle {
+    padding: 0px;
+    border: 0px;
+    width: 400px;
+    height: auto;
+    background-image: url(../pic/tbox_middle.png);
+    background-repeat: repeat-y;
+    background-position: center;
+    margin: 0 auto;
+}
+
+div.pane-footer {
+    padding:0px;
+    border:0px;
+    width:400px;
+    height:10px;
+    background-image: url(../pic/tbox_footer.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    margin:0 auto;
+}
+
+img.error {
+    width: 32px;
+    height: 32px;
+    border: none;
+    background-image: url(../pic/error.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+img.warn {
+    width: 32px;
+    height: 32px;
+    border: none;
+    background-image: url(../pic/warn.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+img.success {
+    width: 32px;
+    height: 32px;
+    border: none;
+    background-image: url(../pic/success.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
