@@ -1,6 +1,4 @@
-#  Flight Company Website made in PHP - FMI Flights
-Beautiful project for photo sharing made in ASP.NET and C#.
-
+##  Flight Company Website made in PHP - FMI Flights
 
 
 ### Screenshots
